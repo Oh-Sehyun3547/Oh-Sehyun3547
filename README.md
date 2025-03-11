@@ -1,4 +1,5 @@
 ## Hi Hi 👋
+저는 대구과학고등학교 38기 오세현입니다.
 
 <!--
 **Oh-Sehyun3547/Oh-Sehyun3547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
